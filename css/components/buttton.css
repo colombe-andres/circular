@@ -1,0 +1,14 @@
+.btn-blue {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Yanone Kaffeesatz';
+	font-size: 60px;
+	color: lightcoral;
+}
+
+.btn-blue:hover {
+	background-color: #744EB5;
+	color: white;
